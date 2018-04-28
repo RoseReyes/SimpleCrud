@@ -1,0 +1,10 @@
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/obj/Debug/netcoreapp2.0/consoledb.csproj.CoreCompileInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/obj/Debug/netcoreapp2.0/consoledb.AssemblyInfoInputs.cache
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/obj/Debug/netcoreapp2.0/consoledb.AssemblyInfo.cs
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/bin/Debug/netcoreapp2.0/consoledb.deps.json
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/bin/Debug/netcoreapp2.0/consoledb.runtimeconfig.json
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/bin/Debug/netcoreapp2.0/consoledb.runtimeconfig.dev.json
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/bin/Debug/netcoreapp2.0/consoledb.dll
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/bin/Debug/netcoreapp2.0/consoledb.pdb
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/obj/Debug/netcoreapp2.0/consoledb.dll
+/Users/rose/Desktop/DojoAssignments/netCore/consoledb/obj/Debug/netcoreapp2.0/consoledb.pdb

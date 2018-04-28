@@ -1,0 +1,23 @@
+ public static void Update()
+    {   
+        Console.WriteLine("Please enter the ID of the user whose information you would like to update:");
+        string id = Console.ReadLine();
+        Console.WriteLine("Updated first name:");
+        string first = Console.ReadLine();
+        Console.WriteLine("Updated last name:");
+        string last = Console.ReadLine();
+        Console.WriteLine("Updated favorite number:");
+        string num = Console.ReadLine();
+        string query = $"UPDATE users SET first_name=\"{first}\", last_name=\"{last}\", favorite_number=\"{num}\", updated_at=NOW() WHERE id={id}";
+        DbConnector.ExecuteQuery(query);
+        Read();
+    }
+
+public static void Delete()
+{
+    Console.WriteLine("Please enter the ID number of the user you would like to delete:");
+    string id = Console.ReadLine();
+    string query = $"DELETE FROM users WHERE users.id={id};";
+    DbConnector.ExecuteQuery(query);
+    Read();
+}
